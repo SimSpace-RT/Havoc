@@ -31,3 +31,6 @@ data/
 client/Build/
 client/Havoc
 client/Modules/
+
+# ingore visual studio magic
+.vs/*
